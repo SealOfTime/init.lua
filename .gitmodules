@@ -1,0 +1,21 @@
+[submodule "plugins/start/neodev.nvim"]
+	path = plugins/start/neodev.nvim
+	url = https://github.com/folke/neodev.nvim
+[submodule "plugins/start/nvim-lspconfig"]
+	path = plugins/start/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig
+[submodule "plugins/start/nvim-treesitter"]
+	path = plugins/start/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter
+[submodule "plugins/start/papercolor-theme"]
+	path = plugins/start/papercolor-theme
+	url = https://github.com/NLKNguyen/papercolor-theme
+[submodule "plugins/start/plenary.nvim"]
+	path = plugins/start/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim
+[submodule "plugins/start/telescope-fzf-native.nvim"]
+	path = plugins/start/telescope-fzf-native.nvim
+	url = https://github.com/nvim-telescope/telescope-fzf-native.nvim
+[submodule "plugins/start/telescope.nvim"]
+	path = plugins/start/telescope.nvim
+	url = https://github.com/nvim-telescope/telescope.nvim
